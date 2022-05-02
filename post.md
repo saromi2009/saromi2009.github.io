@@ -1,6 +1,6 @@
 ---
 
-title:  "github.io 블로그  첫 글"
+title:  "Saromi의 블로그"
 
 excerpt: "github.io 블로그 첫 글 작성해봅니다."
 
@@ -12,7 +12,7 @@ tags:
 
   - Blog
 
-last_modified_at: 2019-04-13T08:06:00-05:00
+last_modified_at: 2022-05-2T23:06:00-05:00
 
 ---
 
